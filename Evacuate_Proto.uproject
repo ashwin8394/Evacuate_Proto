@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.14",
+	"Category": "",
+	"Description": "",
+	"TargetPlatforms": [
+		"LinuxNoEditor",
+		"WindowsNoEditor",
+		"XboxOne",
+		"MacNoEditor",
+		"PS4"
+	]
+}
